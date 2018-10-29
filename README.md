@@ -1,2 +1,4 @@
-# re_learn
-正则知识的学习
+# re_learn（杂项知识）
+
+1，get_ip ：获取ip的两种方法
+2，scan_port：验证某个ip的端口是否被占用
